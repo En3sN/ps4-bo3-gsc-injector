@@ -7,7 +7,7 @@ shiversoftdev: Compiler / How injection works
 
 
 ## How to launch 
-- Click at PS4 BO3 GSC.exe in PS4 BO3 GSC folder
+- Click at PS4 BO3 GSC.exe.link in PS4 BO3 GSC folder
 
 
 ## How To Compile
