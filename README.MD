@@ -5,6 +5,11 @@ It uses a stripped down version of [shiversoftdev/t7-compiler](https://github.co
 ##### Credits:
 shiversoftdev: Compiler / How injection works
 
+
+## How to launch 
+- Click at PS4 BO3 GSC.exe in PS4 BO3 GSC folder
+
+
 ## How To Compile
  - Get the source code to the menu of your choice.
  - In the compiler section, select the "Browse" button for the GSC Project and select the root folder of your gsc menu source code
